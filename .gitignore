@@ -51,3 +51,7 @@ moodle-plugin-ci.phar
 .eslintignore
 .stylelintignore
 /jsdoc
+
+# My Form
+Desktop.ini
+theme/adaptable
